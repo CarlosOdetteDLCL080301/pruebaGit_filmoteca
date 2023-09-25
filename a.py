@@ -1,1 +1,1 @@
-print("Un print mas")
+print("Uso de FECH")
